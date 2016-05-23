@@ -2,7 +2,7 @@
 
 [![Join the chat][gitter_badge]][gitter_chat]
 
-Wekan is an open-source and collaborative kanban board application.
+Wekan is an open-source and collaborative kanban board application
 
 Whether you’re maintaining a personal todo list, planning your holidays with
 some friends, or working in a team on your next revolutionary idea, Kanban
